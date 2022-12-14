@@ -29,7 +29,7 @@ A maior dificuldade que tive, foi com o tratament da base de dados, visto que to
 ![image](https://user-images.githubusercontent.com/97578244/207660290-7815f417-6362-4d6a-8261-22de6e9a98ae.png)
 
 
-![image](https://user-images.githubusercontent.com/97578244/207659643-7fc052fd-bb0b-49fa-920d-e4ccb228e071.png)
+
 
 
  
